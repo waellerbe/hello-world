@@ -4,8 +4,10 @@
 This is an entry from William A Ellerbe  
 I created a branch to show [changes](commits "A change is a commit on GitHUb") to this Readme file  
 
-:book: As my knowledge grows, I will use this experience.  
-to contribute changes to other projects here on GitHub.  
+:book:  As my knowledge grows, 
+I will use this experience to contribute changes to other projects here on GitHub. 
+
+Looking forward to the opportunity to [collaborate](GitHub "Social application development") on projects. 
 
 :pencil: **Creative Side Note:**  
 We can add colors in Markdown
