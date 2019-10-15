@@ -7,7 +7,7 @@ I created a branch to show [changes](commits "A change is a commit on GitHUb") t
 :book:  As my knowledge grows, 
 I will use this experience to contribute changes to other projects here on GitHub. 
 
-Looking forward to the opportunity to [collaborate](GitHub "Social application development") on projects. 
+Looking forward to the opportunity to [collaborate](GitHub "Social application development opportunity") on **future** projects. 
 
 :pencil: **Creative Side Note:**  
 We can add colors in Markdown
